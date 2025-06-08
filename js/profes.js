@@ -493,7 +493,7 @@ async function datos(criterio) {
     <line x1="60" y1="2.5" x2="60" y2="62.5" stroke="silver" stroke-width=".3" />
     <circle cx="60" cy="62.5" r=".5" fill="silver"/>
     `;
-    for (var i = 0; i < notas.length; i++) {
+    for (int i = 0; i < notas.length; i++) {
         profeNotas.innerHTML += `<g>    
 <text x="0.5" y="${140 - notasPrevias[i] * 20 + 2.5}" font-size="2.3" dominant-baseline="middle">${notasPrevias[i].toFixed(1)}</text>
 <circle cx="5" cy="${140 - notasPrevias[i] * 20 + 2.5}" r=".5" fill="var(--acento)"/>
@@ -517,8 +517,8 @@ document.querySelectorAll("select")[0].addEventListener("change", (event) => {
     datos(event.target.value).catch((error) => console.error(error));
     if(event.target.value == "Domínguez González, Pablo"){
         document.querySelector("#primera").classList.add("esconde");
-        document.querySelector("#segunda").classList.remove("esconde")
+        document.querySelector("#segunda").classList.remove("esconde");
     } else {
         document.querySelector("#primera").classList.remove("esconde");
-        document.querySelector("#segunda").classList.add("esconde")    }
+        document.querySelector("#segunda").classList.add("esconde")    ;}
 });
