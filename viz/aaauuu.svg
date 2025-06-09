@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1918 646">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        font-family: SatoshiVariable-Bold, 'Satoshi Variable';
+        font-variation-settings: 'wght' 900;
+        font-weight: 700;
+      }
+
+      .cls-2, .cls-3 {
+        font-size: 40.1px;
+      }
+
+      .cls-4 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7, .cls-8, .cls-9 {
+        fill: none;
+      }
+
+      .cls-3 {
+        font-family: SatoshiVariable-Medium, 'Satoshi Variable';
+        font-variation-settings: 'wght' 500;
+        font-weight: 500;
+      }
+
+      .cls-8 {
+        stroke: #1d1d1b;
+      }
+
+      .cls-8, .cls-9 {
+        stroke-width: 2px;
+      }
+
+      .cls-10 {
+        letter-spacing: 0em;
+      }
+
+      .cls-11 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-12 {
+        fill: #1d1d1b;
+      }
+
+      .cls-13 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-14 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-9 {
+        stroke: #ff5722;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-15 {
+        letter-spacing: -.02em;
+      }
+    </style>
+  </defs>
+  <g id="Capa_1-2" data-name="Capa 1">
+    <rect class="cls-12" x="205.81" y="440.9" width="1548.09" height="18.94"/>
+    <rect class="cls-12" x="970.9" y="459.02" width="23.29" height="15.79" transform="translate(515.62 1449.46) rotate(-90)"/>
+    <rect class="cls-12" x="443.21" y="459.62" width="23.29" height="15.79" transform="translate(-12.66 922.38) rotate(-90)"/>
+    <rect class="cls-12" x="1541.98" y="458.89" width="23.29" height="15.79" transform="translate(1086.84 2020.42) rotate(-90)"/>
+    <path class="cls-8" d="M764.87,282.03h451.14c6.6,0,11.96,5.36,11.96,11.96v151.17h-475.07v-151.17c0-6.6,5.36-11.96,11.96-11.96Z"/>
+    <path class="cls-8" d="M1289.16,282.11h450.35c6.82,0,12.36,5.54,12.36,12.36v150.77h-475.07v-150.77c0-6.82,5.54-12.36,12.36-12.36Z"/>
+    <text class="cls-2" transform="translate(796.38 527.04)"><tspan x="0" y="0">Ciclo especializado</tspan><tspan x="122.05" y="40.1">V a VII</tspan></text>
+    <text class="cls-2" transform="translate(336.56 526.43)"><tspan x="0" y="0">Ciclo básico</tspan><tspan x="68.93" y="40.1">I a IV</tspan></text>
+    <text/>
+    <text class="cls-2" transform="translate(1390.18 526.78)"><tspan x="0" y="0">Ciclo p</tspan><tspan class="cls-11" x="136.5" y="0">r</tspan><tspan class="cls-6" x="152.82" y="0">o</tspan><tspan class="cls-11" x="177.4" y="0">f</tspan><tspan x="191.44" y="0">esional</tspan><tspan x="106.19" y="40.1">IX a X</tspan></text>
+    <text class="cls-3" transform="translate(871.86 347.9)"><tspan x="0" y="0">Seminario de </tspan><tspan x="-27.59" y="48.12">licenci</tspan><tspan class="cls-1" x="87.86" y="48.12">a</tspan><tspan class="cls-5" x="108.95" y="48.12">tu</tspan><tspan class="cls-13" x="144.44" y="48.12">r</tspan><tspan x="158.4" y="48.12">a I y II</tspan></text>
+    <text class="cls-3" transform="translate(1354.56 347.9)"><tspan x="0" y="0">P</tspan><tspan class="cls-15" x="25.06" y="0">r</tspan><tspan class="cls-14" x="39.1" y="0">o</tspan><tspan class="cls-4" x="61.72" y="0">y</tspan><tspan x="80.92" y="0">ec</tspan><tspan class="cls-10" x="124.07" y="0">t</tspan><tspan x="136.62" y="0">o de título</tspan><tspan x="121.89" y="48.12">I y II</tspan></text>
+    <text class="cls-2" transform="translate(177.76 557.73) rotate(-90)"><tspan x="0" y="0">Semest</tspan><tspan class="cls-11" x="141.03" y="0">r</tspan><tspan x="157.36" y="0">e</tspan></text>
+    <rect class="cls-9" x="76.99" y="30.24" width="1779.96" height="580.78" rx="22.02" ry="22.02"/>
+    <rect id="_Sector_" data-name="&amp;lt;Sector&amp;gt;" class="cls-7" width="1918" height="646"/>
+  </g>
+</svg>

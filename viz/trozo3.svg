@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 650.03">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        font-family: SatoshiVariable-Bold, 'Satoshi Variable';
+        font-variation-settings: 'wght' 900;
+        font-weight: 700;
+      }
+
+      .cls-2, .cls-3 {
+        font-size: 40.54px;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5, .cls-6, .cls-7 {
+        fill: none;
+      }
+
+      .cls-3 {
+        font-family: SatoshiVariable-Medium, 'Satoshi Variable';
+        font-variation-settings: 'wght' 500;
+        font-weight: 500;
+      }
+
+      .cls-8 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-9 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-10 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-6 {
+        stroke: #1d1d1b;
+      }
+
+      .cls-6, .cls-7 {
+        stroke-width: 2px;
+      }
+
+      .cls-11 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-12 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-13 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-14 {
+        fill: #1d1d1b;
+      }
+
+      .cls-15 {
+        letter-spacing: 0em;
+      }
+
+      .cls-16 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        stroke: #ff5722;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="Capa_1-2" data-name="Capa 1">
+    <rect class="cls-14" x="198.41" y="442.68" width="1565.02" height="19.15"/>
+    <rect class="cls-14" x="971.86" y="461.01" width="23.55" height="15.97" transform="translate(514.65 1452.63) rotate(-90)"/>
+    <rect class="cls-14" x="438.41" y="461.61" width="23.55" height="15.97" transform="translate(-19.41 919.78) rotate(-90)"/>
+    <rect class="cls-14" x="1549.19" y="460.88" width="23.55" height="15.97" transform="translate(1092.1 2029.83) rotate(-90)"/>
+    <path class="cls-6" d="M763.45,282.08h456.34c6.6,0,11.96,5.36,11.96,11.96v152.95h-480.26v-152.95c0-6.6,5.36-11.96,11.96-11.96Z"/>
+    <path class="cls-6" d="M1293.48,282.16h455.54c6.82,0,12.36,5.54,12.36,12.36v152.56h-480.26v-152.56c0-6.82,5.54-12.36,12.36-12.36Z"/>
+    <text class="cls-2" transform="translate(795.44 529.77)"><tspan x="0" y="0">Ciclo especializado</tspan><tspan x="123.38" y="40.54">V a VII</tspan></text>
+    <text class="cls-2" transform="translate(330.59 529.15)"><tspan x="0" y="0">Ciclo básico</tspan><tspan x="69.69" y="40.54">I a IV</tspan></text>
+    <text/>
+    <text class="cls-2" transform="translate(1395.73 529.5)"><tspan x="0" y="0">Ciclo p</tspan><tspan class="cls-10" x="137.99" y="0">r</tspan><tspan class="cls-4" x="154.49" y="0">o</tspan><tspan class="cls-13" x="179.34" y="0">f</tspan><tspan x="193.53" y="0">esional</tspan><tspan x="107.35" y="40.54">IX a X</tspan></text>
+    <text class="cls-3" transform="translate(871.75 348.67)"><tspan x="0" y="0">Seminario de </tspan><tspan x="-27.89" y="48.65">licenci</tspan><tspan class="cls-1" x="88.82" y="48.65">a</tspan><tspan x="110.15" y="48.65">tu</tspan><tspan class="cls-12" x="146.02" y="48.65">r</tspan><tspan x="160.13" y="48.65">a I y II</tspan></text>
+    <text class="cls-3" transform="translate(1359.73 348.67)"><tspan x="0" y="0">P</tspan><tspan class="cls-8" x="25.34" y="0">r</tspan><tspan class="cls-11" x="39.53" y="0">o</tspan><tspan class="cls-9" x="62.39" y="0">y</tspan><tspan x="81.81" y="0">ec</tspan><tspan class="cls-15" x="125.43" y="0">t</tspan><tspan x="138.12" y="0">o de título</tspan><tspan x="123.22" y="48.65">I y II</tspan></text>
+    <text class="cls-2" transform="translate(170.06 560.79) rotate(-90)"><tspan x="0" y="0">Semest</tspan><tspan class="cls-13" x="142.58" y="0">r</tspan><tspan x="159.08" y="0">e</tspan></text>
+    <rect class="cls-7" x="68.18" y="27.54" width="1799.42" height="587.13" rx="22.02" ry="22.02"/>
+    <path class="cls-6" d="M1293.08,86.37h456.34c6.6,0,11.96,5.36,11.96,11.96v144.06c0,4.91-3.99,8.9-8.9,8.9h-462.47c-4.91,0-8.9-3.99-8.9-8.9V98.33c0-6.6,5.36-11.96,11.96-11.96Z"/>
+    <text class="cls-3" transform="translate(1340.26 182.87)"><tspan x="0" y="0">P</tspan><tspan class="cls-12" x="25.34" y="0">r</tspan><tspan x="39.44" y="0">áctica P</tspan><tspan class="cls-8" x="184.66" y="0">r</tspan><tspan class="cls-16" x="198.85" y="0">o</tspan><tspan class="cls-10" x="222.28" y="0">f</tspan><tspan x="234.52" y="0">esional</tspan></text>
+    <rect id="_Sector_" data-name="&amp;lt;Sector&amp;gt;" class="cls-5" width="1920" height="650.03"/>
+  </g>
+</svg>
